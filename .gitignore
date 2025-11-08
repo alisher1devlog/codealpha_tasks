@@ -1,0 +1,18 @@
+# Asosiy e'tiborsiz qoldiriladiganlar
+node_modules/
+.env
+.env.*
+!*.env.example
+
+# Loyiha papkalari ichidagilar
+/social-media-app/node_modules
+/social-media-app/.env
+
+/project-management-tool/node_modules
+/project-management-tool/.env
+
+# OS va IDE fayllari
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
